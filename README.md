@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![banner](solid-black-image)
 <!--
 **dudd-developer/dudd-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
