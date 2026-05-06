@@ -1,3 +1,3 @@
 ## Hello!
 
-![Header](./github-header-banner.png)
+![Header](./black-banner-gif.gif)
