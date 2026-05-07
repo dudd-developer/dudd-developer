@@ -1,1 +1,1 @@
-![Header](./readme_banner.gif)
+![Header](./readme_banner.gif)width="800px"
