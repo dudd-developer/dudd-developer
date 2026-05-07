@@ -1,1 +1,1 @@
-![Header](./banner_readme.gif)
+![Header](./banner_readme_1400x450.gif)
